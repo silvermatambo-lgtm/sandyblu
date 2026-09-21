@@ -139,8 +139,8 @@ export default function Services() {
           <h2 className="text-3xl font-bold text-white mb-4">Ready to Get Started?</h2>
           <p className="text-amber-100 mb-8">Contact us for a free consultation and no-obligation quote.</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="tel:+27833522647" className="inline-flex items-center justify-center gap-2 px-8 py-3.5 bg-white text-amber-600 font-semibold rounded-xl hover:bg-amber-50 transition-colors">
-              Call 083 352 2647
+            <a href="tel:+27815762853" className="inline-flex items-center justify-center gap-2 px-8 py-3.5 bg-white text-amber-600 font-semibold rounded-xl hover:bg-amber-50 transition-colors">
+              Call +27 81 576 2853
             </a>
             <Link to="/contact" className="inline-flex items-center justify-center gap-2 px-8 py-3.5 border-2 border-white text-white font-semibold rounded-xl hover:bg-white/10 transition-colors">
               Request a Quote <ArrowRight size={16} />
