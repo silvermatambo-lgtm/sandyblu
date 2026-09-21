@@ -1,6 +1,6 @@
 # WebDevPro Ultra Max 5 — Master Rebrand Guide
 
-This is the approved reusable master based on the Granite Installations layout.
+This is the approved reusable master for the Sandy-Blu Guest House website.
 
 ## Preserve on every rebrand
 - Multi-page React/Vite structure
