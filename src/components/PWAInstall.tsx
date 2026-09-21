@@ -48,7 +48,7 @@ export default function PWAInstall() {
         <div className="flex items-center gap-3 mb-3">
           <img src="https://i.imgur.com/HBY0SWU.png" alt="App icon" className="w-12 h-12 object-contain rounded-xl border border-stone-100 p-1" />
           <div>
-            <p className="font-bold text-stone-800 text-sm leading-tight">Granite Installations</p>
+            <p className="font-bold text-stone-800 text-sm leading-tight">Sandy-Blu Guest House</p>
             <p className="text-amber-500 text-xs">Premium Stone Solutions</p>
           </div>
         </div>
