@@ -1,7 +1,8 @@
 export const CONTACT = {
-  phoneDisplay: '+27 74 123 4567',
-  phone: '27741234567',
+  phoneDisplay: '+27 81 576 2853',
+  phone: '27815762853',
   email: 'info@sandyblu.co.za',
+  emailAlt: 'Sandy-blue-kzn@outlook.com',
   website: 'www.sandyblu.co.za',
   address: 'Sandy-Blu Guest House, Umhlanga Rocks, Durban, KwaZulu-Natal, South Africa',
 };
