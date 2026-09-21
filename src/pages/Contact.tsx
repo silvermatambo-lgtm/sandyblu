@@ -85,22 +85,22 @@ export default function Contact() {
               {
                 icon: <Phone size={22} />,
                 label: 'Call Us',
-                value: '083 352 2647',
-                href: 'tel:+27833522647',
+                value: '+27 81 576 2853',
+                href: 'tel:+27815762853',
                 color: 'blue',
               },
               {
                 icon: <WA_ICON />,
                 label: 'WhatsApp',
-                value: '+27 78 300 7127',
-                href: 'https://wa.me/27783007127?text=Hi%2C%20I%20would%20like%20a%20quote.',
+                value: '+27 81 576 2853',
+                href: 'https://wa.me/27815762853?text=Hi%2C%20I%20would%20like%20a%20quote.',
                 color: 'green',
               },
               {
                 icon: <Mail size={22} />,
                 label: 'Email Us',
-                value: 'Info@granite-installations.co.za',
-                href: 'mailto:Info@granite-installations.co.za',
+                value: 'info@sandyblu.co.za / Sandy-blue-kzn@outlook.com',
+                href: 'mailto:info@sandyblu.co.za',
                 color: 'amber',
               },
               {
@@ -158,7 +158,7 @@ export default function Contact() {
                 ) : (
                   <form onSubmit={handleSubmit} className="space-y-5" noValidate>
                     {field('Full Name *', 'name', 'text', 'e.g. John Smith')}
-                    {field('Phone Number *', 'phone', 'tel', 'e.g. 083 352 2647')}
+                    {field('Phone Number *', 'phone', 'tel', 'e.g. +27 81 576 2853')}
                     {field('Email Address *', 'email', 'email', 'e.g. john@example.com')}
 
                     <div>
@@ -201,7 +201,7 @@ export default function Contact() {
                     <div className="text-center pt-2">
                       <p className="text-stone-400 text-xs mb-2">Prefer to chat directly?</p>
                       <a
-                        href="https://wa.me/27783007127?text=Hi%2C%20I%20would%20like%20a%20quote%20for%20stone%20installation."
+                        href="https://wa.me/27815762853?text=Hi%2C%20I%20would%20like%20a%20quote%20for%20stone%20installation."
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-2 px-5 py-2.5 bg-green-600 hover:bg-green-500 text-white text-sm font-semibold rounded-xl transition-colors"
@@ -267,13 +267,13 @@ export default function Contact() {
                 {/* Quick contact */}
                 <div className="grid grid-cols-2 gap-4">
                   <a
-                    href="tel:+27833522647"
+                    href="tel:+27815762853"
                     className="flex items-center justify-center gap-2 py-4 bg-stone-900 hover:bg-stone-800 text-white font-semibold rounded-2xl text-sm transition-colors"
                   >
                     <Phone size={16} /> Call Now
                   </a>
                   <a
-                    href="https://wa.me/27783007127?text=Hi%2C%20I%20would%20like%20a%20quote."
+                    href="https://wa.me/27815762853?text=Hi%2C%20I%20would%20like%20a%20quote."
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center justify-center gap-2 py-4 bg-green-600 hover:bg-green-500 text-white font-semibold rounded-2xl text-sm transition-colors"
