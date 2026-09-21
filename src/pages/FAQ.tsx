@@ -42,7 +42,7 @@ const FAQS = [
   },
   {
     q: 'How do I get started?',
-    a: 'Getting started is easy! Call us on 083 352 2647 or WhatsApp us on +27 78 300 7127, send an email to Info@granite-installations.co.za, or fill in our online quote form. We\'ll arrange a consultation to discuss your project, take measurements if needed, and provide a detailed quote. From there, we handle everything through to the finished installation.',
+    a: 'Getting started is easy! Call us on +27 81 576 2853 or WhatsApp us on +27 81 576 2853, send an email to info@sandyblu.co.za, or fill in our online quote form. We\'ll arrange a consultation to discuss your project, take measurements if needed, and provide a detailed quote. From there, we handle everything through to the finished installation.',
   },
 ];
 
@@ -118,7 +118,7 @@ export default function FAQ() {
           <h2 className="text-2xl font-bold text-stone-800 mb-3">Still have questions?</h2>
           <p className="text-stone-500 mb-8">We're happy to help. Reach out to us directly and we'll answer all your questions.</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="tel:+27833522647" className="btn-gold">
+            <a href="tel:+27815762853" className="btn-gold">
               Call Us Now
             </a>
             <Link to="/contact" className="inline-flex items-center justify-center gap-2 px-6 py-3 border-2 border-amber-500 text-amber-600 font-semibold rounded-lg hover:bg-amber-50 transition-colors text-sm">
