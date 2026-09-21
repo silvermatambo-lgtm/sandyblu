@@ -19,7 +19,7 @@ export default function LoadingScreen() {
     >
       <img
         src="https://i.imgur.com/HBY0SWU.png"
-        alt="Granite Installations"
+        alt="Sandy-Blu Guest House"
         className="w-24 h-24 object-contain mb-6 animate-float"
       />
       <div className="w-48 h-1 bg-stone-700 rounded-full overflow-hidden">
