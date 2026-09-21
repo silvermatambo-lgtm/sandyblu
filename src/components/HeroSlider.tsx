@@ -142,13 +142,13 @@ export default function HeroSlider() {
               className={`flex flex-wrap gap-3 ${animating ? 'animate-fade-up delay-500' : 'opacity-0'}`}
             >
               <a
-                href="tel:+27833522647"
+                href="tel:+27815762853"
                 className="inline-flex items-center gap-2 px-5 py-3 bg-amber-500 hover:bg-amber-400 text-white font-semibold rounded-lg text-sm transition-all duration-300 hover:-translate-y-0.5 hover:shadow-lg"
               >
                 <Phone size={16} /> Call Now
               </a>
               <a
-                href="https://wa.me/27783007127?text=Hi%2C%20I%20would%20like%20a%20quote%20for%20stone%20installation."
+                href="https://wa.me/27815762853?text=Hi%2C%20I%20would%20like%20a%20quote%20for%20stone%20installation."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-5 py-3 bg-green-600 hover:bg-green-500 text-white font-semibold rounded-lg text-sm transition-all duration-300 hover:-translate-y-0.5 hover:shadow-lg"
